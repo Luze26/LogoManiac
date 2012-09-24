@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item
+        type="holder"
+        name="id_name" />
+    <item
+        type="categorie"
+        name="id_name" />
+</resources>

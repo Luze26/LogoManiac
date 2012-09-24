@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    
+    <string name="app_name">LogoManiac</string>
+    <string name="categorie">Catégories</string>
+	<string name="pts">pts</string>
+	
+	<string name="voitures">Voitures</string>
+	<string name="alcool">Alcool</string>
+	
+	<string name="intel">Intel</string>
+	<string name="caterpillar">Caterpillar</string>
+	
+	<string name="reset">Reset</string>
+	<string name="language">Langue</string>
+</resources>
